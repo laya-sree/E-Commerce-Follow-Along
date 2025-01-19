@@ -25,7 +25,7 @@ Welcome to the eCommerce Website project! This is an online platform designed to
 ### Features
 ### User Registration/Login: Secure user registration and login using JWT.
 ### Product Listing: Users can view available products by categories, and sort/filter options.
-### #Shopping Cart: Add, update, and remove items from the shopping cart.
+### Shopping Cart: Add, update, and remove items from the shopping cart.
 ### Order Management: Users can place orders and track their order history.
 ### Search Functionality: Search for products based on names, categories, and prices.
 ### Admin Dashboard: Admin users can manage product listings, update prices, manage user data, and view orders.
